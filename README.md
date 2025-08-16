@@ -2,10 +2,7 @@
 **AI Engineer | Full Stack Developer | Open Source Contributor**
 
 ---
-### **📊 GitHub Stats**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bl4nk44&theme=dark&background=0d1117&border=4CAF50&stroke=4CAF50&ring=4CAF50&fire=4CAF50&currStreakNum=4CAF50&sideNums=4CAF50&currStreakLabel=4CAF50&sideLabels=4CAF50&dates=9e9e9e)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bl4nk44&layout=compact&theme=dark&background=0d1117&border=4CAF50&text_color=4CAF50&title_color=4CAF50)
-![Contributions](https://github-readme-stats.vercel.app/api?username=Bl4nk44&show_icons=true&theme=dark&background=0d1117&border=4CAF50&text_color=9e9e9e&title_color=4CAF50&icon_color=4CAF50)
+
 
 ---
 ### **🌱 About Me**
@@ -15,11 +12,7 @@
 - 📫 **Let's connect:** [Email](mailto:your@email.com) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourhandle)
 
 ---
-### **🚀 Featured Projects**
-| **Project**         | **Description**                          | **Tech Stack**          | **Link**                     |
-|---------------------|------------------------------------------|-------------------------|------------------------------|
-| [AI Chatbot](link)  | Intelligent chatbot using NLP and LLMs   | Python, TensorFlow, FastAPI | [GitHub](link)              |
-| [CV Model](link)    | Real-time object detection system        | PyTorch, OpenCV, Docker | [GitHub](link)              |
+
 
 ---
 ### **📈 Skills & Technologies**
@@ -32,12 +25,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-### **🎵 Currently Playing on Spotify**
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?user_id=31ungpqbbyaargejh2sizlbotah4d&theme=novatorem&bar_color=4CAF50&bar_color_cover=false)](https://open.spotify.com/user/31ungpqbbyaargejh2sizlbotah4)
-
----
-### **💬 Quote of the Day**
-> "AI is not just another technology; it's a new way of thinking." — Fei-Fei Li
 
 ---
 ### **📬 Connect With Me**
