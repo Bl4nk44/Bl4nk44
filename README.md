@@ -33,7 +33,7 @@
 
 ---
 ### **🎵 Currently Playing on Spotify**
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?user_id=Matid&theme=novatorem&bar_color=4CAF50&bar_color_cover=false)](https://open.spotify.com/user/Mati)
+[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?user_id=31ungpqbbyaargejh2sizlbotah4d&theme=novatorem&bar_color=4CAF50&bar_color_cover=false)](https://open.spotify.com/user/31ungpqbbyaargejh2sizlbotah4)
 
 ---
 ### **💬 Quote of the Day**
