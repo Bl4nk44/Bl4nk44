@@ -9,7 +9,6 @@
 - 💡 **Passionate about:** AI, machine learning, full-stack development, and open-source projects.
 - 🛠 **Skills:** Python, JavaScript, React, Node.js, TensorFlow, PyTorch, NLP, Computer Vision, Git, CI/CD.
 - 🎯 **Currently learning:** Advanced deep learning, MLOps, and scalable AI systems.
-- 📫 **Let's connect:** [Email](mailto:your@email.com) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourhandle)
 
 ---
 
