@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face" width="35" height="35" /> **Hi, I'm Bl4nk44!**
-**AI Engineer | Full Stack Developer | Open Source Contributor**
+****
 
 ---
 
@@ -27,9 +27,6 @@
 ---
 
 ---
-### **📬 Connect With Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+
 
 ---
