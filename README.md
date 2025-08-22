@@ -6,7 +6,7 @@
 
 ---
 ### **🌱 About Me**
-- 💡 **Passionate about:** AI, machine learning, full-stack development, and open-source projects.
+- 💡 **Passionate about:** AI, machine learning, and open-source projects.
 - 🛠 **Skills:** Python, JavaScript, React, Node.js, TensorFlow, PyTorch, NLP, Computer Vision, Git, CI/CD.
 - 🎯 **Currently learning:** Advanced deep learning, MLOps, and scalable AI systems.
 
