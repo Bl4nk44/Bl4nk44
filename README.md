@@ -7,7 +7,7 @@
 ---
 ### **🌱 About Me**
 - 💡 **Passionate about:** AI, machine learning, and open-source projects.
-- 🛠 **Skills:** Python, JavaScript, React, Node.js, TensorFlow, PyTorch, NLP, Computer Vision, Git, CI/CD.
+- 🛠 **Skills:** Docker, Python, JavaScript, React, Node.js, TensorFlow, PyTorch, NLP, Computer Vision, Git.
 - 🎯 **Currently learning:** Advanced deep learning, MLOps, and scalable AI systems.
 
 ---
